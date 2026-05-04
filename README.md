@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Dao Firewall logo" width="128">
+</p>
+
 # Dao Firewall
 
 **The definitive path to master network, DNS, and trackers.**
@@ -34,6 +38,10 @@ Dao Firewall is a root-focused Android firewall for controlling hosts blocking, 
 ## Android Support
 
 Dao Firewall is compatible with Android 16 and earlier supported Android versions.
+
+## Root Support
+
+Dao Firewall is designed for rooted Android setups, including Magisk, KernelSU, KernelSU forks, and other compatible root variants.
 
 ## Project Status
 
