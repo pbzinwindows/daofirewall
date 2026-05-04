@@ -12,6 +12,7 @@ Dao Firewall is a root-focused Android firewall for controlling hosts blocking, 
 
 <p>
   <img src="screenshots/dao_firewall_home.png" alt="Dao Firewall home screen" height="420">
+  <img src="screenshots/dao_firewall_dns_requests.png" alt="Dao Firewall DNS requests screen" height="420">
   <img src="screenshots/dao_firewall_sources.png" alt="Dao Firewall hosts sources screen" height="420">
   <img src="screenshots/dao_firewall_personal_blocklist.png" alt="Dao Firewall personal blocklist screen" height="420">
   <img src="screenshots/dao_firewall_preferences.png" alt="Dao Firewall preferences screen" height="420">
