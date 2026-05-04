@@ -4,6 +4,19 @@
 
 Dao Firewall is a root-focused Android firewall for controlling hosts blocking, DNS visibility, app trackers, Android components, and app data from one place. It combines systemless/root hosts deployment, DNS request logging, root firewall rules, tracker component management, and root-assisted app inspection tools.
 
+## Screenshots
+
+<p>
+  <img src="screenshots/dao_firewall_home.png" alt="Dao Firewall home screen" height="420">
+  <img src="screenshots/dao_firewall_sources.png" alt="Dao Firewall hosts sources screen" height="420">
+  <img src="screenshots/dao_firewall_personal_blocklist.png" alt="Dao Firewall personal blocklist screen" height="420">
+  <img src="screenshots/dao_firewall_preferences.png" alt="Dao Firewall preferences screen" height="420">
+  <img src="screenshots/dao_firewall_root_firewall.png" alt="Dao Firewall root firewall preferences screen" height="420">
+  <img src="screenshots/dao_firewall_tracker_overview.png" alt="Dao Firewall tracker overview screen" height="420">
+  <img src="screenshots/dao_firewall_tracker_activities.png" alt="Dao Firewall tracker activities screen" height="420">
+  <img src="screenshots/dao_firewall_tracker_receivers.png" alt="Dao Firewall tracker receivers screen" height="420">
+</p>
+
 ## Focus
 
 - Root hosts blocking for modern Android systems, including systemless targets and configurable IPv4/IPv6 redirection.
